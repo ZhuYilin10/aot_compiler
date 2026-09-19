@@ -1,0 +1,7 @@
+id=aot_compiler
+name=AOT 编译器
+version=v1.2.0
+versionCode=10200
+author=ZhuYilin10
+description=一键对应用执行 dex2oat AOT 编译。支持 everything 全量 / speed / speed-profile / verify，范围可选全部应用、仅第三方或指定包名；自动适配 Android 版本、CPU 架构与 dalvik 路径，everything 被拒时自动降级；内置实时进度、预计剩余时间、任务取消、重置与存储清理。
+updateJson=https://raw.githubusercontent.com/ZhuYilin10/aot_compiler/main/update.json
